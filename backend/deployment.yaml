@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: gcr.io/abhishek_c0898001/backend:latest
+          image: gcr.io/abhishek-c0898001/backend:latest
           env:
             - name: BACKEND_SERVICE_NAME
               value: "backend-service"
