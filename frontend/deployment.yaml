@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: gcr.io/mounika8036-426015/frontend:latest
+          image: gcr.io/abhishek-c0898001/frontend:latest
           ports:
             - containerPort: 80
